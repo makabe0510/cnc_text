@@ -1,0 +1,121 @@
+This is e-pTeX, Version 3.1415926-p3.4-110825-2.6 (utf8.euc) (TeX Live 2013/Debian) (format=platex 2017.11.6)  6 NOV 2017 13:46
+entering extended mode
+ \write18 enabled.
+ %&-line parsing enabled.
+**p-report.tex
+(./p-report.tex
+pLaTeX2e <2006/11/10> (based on LaTeX2e <2011/06/27> patch level 0)
+Babel <3.9h> and hyphenation patterns for 11 languages loaded.
+(./preport.cls (/usr/share/texlive/texmf-dist/tex/platex/base/jarticle.cls
+Document Class: jarticle 2006/06/27 v1.6 Standard pLaTeX class
+\c@@paper=\count81
+(/usr/share/texlive/texmf-dist/tex/platex/base/jsize10.clo
+File: jsize10.clo 2006/06/27 v1.6 Standard pLaTeX file (size option)
+)
+\c@part=\count82
+\c@section=\count83
+\c@subsection=\count84
+\c@subsubsection=\count85
+\c@paragraph=\count86
+\c@subparagraph=\count87
+\c@figure=\count88
+\c@table=\count89
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\symmincho=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
+(Font)                  JY1/mc/m/n --> JY1/gt/m/n on input line 601.
+\toclineskip=\dimen118
+\@lnumwidth=\dimen119
+\bibindent=\dimen120
+\heisei=\count90
+)
+Document Class: preport 2004/02/14 v0.1 written by Kei OKADA, Standard pLaTeX d
+ocument class for JSK p-report
+(/usr/share/texlive/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box41
+\UL@hyphenbox=\box42
+\UL@skip=\skip43
+\UL@hook=\toks15
+\UL@height=\dimen121
+\UL@pe=\count91
+\UL@pixel=\dimen122
+\ULC@box=\box43
+Package: ulem 2012/05/18
+\ULdepth=\dimen123
+))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: dvipdfmx.def on input line 91.
+
+(/usr/share/texlive/texmf-dist/tex/latex/dvipdfmx-def/dvipdfmx.def
+File: dvipdfmx.def 2014/01/23 v3.4 LaTeX graphics driver for dvipdfmx (TeX Live
+/ChoF)
+))
+\Gin@req@height=\dimen124
+\Gin@req@width=\dimen125
+)
+(./p-report.aux)
+\openout1 = `p-report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 12.
+File: figs/nowprinting.eps Graphic file (type eps)
+ <figs/nowprinting.eps>
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 29.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 29.
+File: figs/dj.jpg Graphic file (type bmp)
+ <figs/dj.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+[]|   []
+ []
+
+(./p-report.bbl) [1
+
+
+
+] (./p-report.aux) ) 
+Here is how much of TeX's memory you used:
+ 703 strings out of 495129
+ 8058 string characters out of 6182595
+ 62788 words of memory out of 5000000
+ 4089 multiletter control sequences out of 15000+600000
+ 10485 words of font info for 42 fonts, out of 8000000 for 9000
+ 80 hyphenation exceptions out of 8191
+ 28i,7n,21p,210b,363s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on p-report.dvi (1 page, 2088 bytes).
