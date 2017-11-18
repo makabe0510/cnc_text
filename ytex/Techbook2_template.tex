@@ -1,0 +1,64 @@
+\documentclass[b5paper, 9pt, twocolumn, titlepage, uplatex]{jsbook}	%メイン構成
+\usepackage[dvipdfmx]{graphicx,color,hyperref}	%dvi→pdf変換
+%追加してるパッケージ
+\usepackage{url}								
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{multirow}
+\usepackage{pxjahyper}	%pdfのしおりの文字化けを防止する．内部コードを判別して切り替えてくれる
+\usepackage{comment}
+\usepackage{listings}	%ソースコード載せる時に使う
+\begin{document}
+	
+%------------------------------↓　こ　こ　か　ら　↓------------------------------
+
+\part{◯◯を作った \\@twitterIDとか}
+\chapter{にゃーん}
+
+	\section{ぽよ}
+	セクション\cite{cubemxmanual1}
+	
+	\subsection{subsection}
+	サブセクション
+	
+	\subsubsection{subsubsection}
+	サブサブセクション
+	
+	\section{ほげ}
+	
+\begin{comment}	
+	この中身は本文に入らない
+\end{comment}
+
+普通は二段組だよ
+あああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああ
+\twocolumn[
+	この中身は一段組になるよ\\
+	あああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああ\\
+	だけどページが勝手に飛ぶこともあるからなるべく2段組で書いてくれるとうれしい，なにか他の2段組と1段組を混ぜるいい方法があったら教えて欲しい
+]
+
+\begin{thebibliography}{99} %参考文献　必要に応じて
+
+	\bibitem{aaa}進捗が厳しい
+	%\bibitem[label]{citekey}
+		
+	\bibitem{openstm321}AC6, OpenSTM32 Community \url{http://www.openstm32.org/HomePage}
+	
+	\bibitem{yuqlidblog1}@yuqlid, yuqlidの日記 \url{http://yuqlid.hatenablog.com/}
+	
+\twocolumn[	%2段でも1段でもいいけど最終的に僕が調整するかも
+
+	\bibitem{cubemxmanual1}STmicroelectronics, UM1718 User manual \url{http://www.st.com/content/ccc/resource/technical/document/user_manual/10/c5/1a/43/3a/70/43/7d/DM00104712.pdf/files/DM00104712.pdf/jcr:content/translations/en.DM00104712.pdf}
+	
+	\bibitem{vector1}ベクター・ジャパン, はじめてのCAN/CAN FD \url{https://jp.vector.com/vj_beginners-can_jp.html}
+
+]
+
+\end{thebibliography}
+
+%------------------------------↑　こ　こ　ま　で　↑------------------------------
+
+%-----------------------このあいだの部分を僕が作ってるやつに結合します-----------------
+%------------------------------何か気になることアレば連絡ください---------------------
+\end{document}
